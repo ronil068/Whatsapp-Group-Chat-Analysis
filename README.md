@@ -4,6 +4,6 @@ These project is totally based on data analysis where our college official whats
   2. Mostly active day of week. 
   3. Top-10 media contributor in Group. 
   4. Top-10 members who uses max. no. of words in there message. 
-  5. Most suitable hour of day whenever there will more chances of getting responce from group members.  
-And many more.....
+  5. Most suitable hour of day whenever there will more chances of getting responce from group members and many more.
+
 Checkout jupyter notebook for more.
