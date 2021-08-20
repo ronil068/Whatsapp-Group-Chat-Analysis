@@ -1,9 +1,16 @@
 # Whatsapp-Chat-Analyzer
 These project is totally based on Data Analysis where our college official whatsapp group chat is used to extract useful insights from the chat. After performing lot of preprocessing finally i have extracted 10+ insights and patterns from the chat. Some of the useful extracted features are : 
-  1. Mostly active member of group. 
-  2. Mostly active day of week. 
-  3. Top-10 media contributor in Group. 
-  4. Top-10 members who uses max. no. of words in there message. 
-  5. Most suitable hour of day whenever there will more chances of getting responce from group members and many more.
-
-Checkout jupyter notebook for more.
+  1. Visual Representation of Mostly active member of group
+  2. Mostly active day of week
+  3. Top-10 visual media contributor of Group
+  4. Top-10 Author who uses max no. of words in there messages
+  5. Top-10 Authors who has shared max no. of links in Group
+  6. Time whenever Group having high traffic
+  7. Analysis of most suitable time slot of a day
+  8. Word Cloud of top-5 highly active member's of Group
+  9. Date on which Group was highly active
+  10. Analysis of no. of messages using Time Series Plot
+  11. Mostly active Month
+  12. Analysis of mostly active month using Line Plot
+  13. Mostly active year whenever max. no. of messages sent
+  14. Analysis of most active Day and Time in the group
