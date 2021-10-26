@@ -12,5 +12,6 @@ These project is totally based on Data Analysis where our college official whats
   10. Analysis of no. of messages using Time Series Plot
   11. Mostly active Month
   12. Analysis of mostly active month using Line Plot
-  13. Mostly active year whenever max. no. of messages sent
-  14. Analysis of most active Day and Time in the group
+  13. Analysis of Emojies used by users
+  14. Mostly active year whenever max. no. of messages sent
+  15. Analysis of most active Day and Time in the group
