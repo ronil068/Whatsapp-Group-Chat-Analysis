@@ -15,3 +15,4 @@ These project is totally based on Data Analysis where our college official whats
   13. Analysis of Emojies used by users
   14. Mostly active year whenever max. no. of messages sent
   15. Analysis of most active Day and Time in the group
+# Note : The Notebook is really very amazing, must check it once.
