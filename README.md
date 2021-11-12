@@ -1,4 +1,9 @@
 # Whatsapp-Group-Chat-Analyzer
+
+<p align="center">
+  <img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;">
+</p>
+
 These project is totally based on Data Analysis where our college official whatsapp group chat is used to extract useful insights from the chat. After performing lot of preprocessing finally I have extracted 10+ insights and patterns from the chat. Some of the useful extracted features are : 
   1. Visual Representation of Mostly active member of group
   2. Mostly active day of week
@@ -15,4 +20,9 @@ These project is totally based on Data Analysis where our college official whats
   13. Analysis of Emojies used by users
   14. Mostly active year whenever max. no. of messages sent
   15. Analysis of most active Day and Time in the group
-# Note : The Notebook is really very amazing, must check it once.
+
+#### Note : The Notebook is really very amazing, must check it once.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ronylpatil/">Made with ❤ by ronil</a>
+</p>
