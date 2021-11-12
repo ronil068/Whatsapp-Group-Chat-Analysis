@@ -4,22 +4,25 @@
   <img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;">
 </p>
 
-These project is totally based on Data Analysis where our college official whatsapp group chat is used to extract useful insights from the chat. After performing lot of preprocessing finally I have extracted 10+ insights and patterns from the chat. Some of the useful extracted features are : 
-  1. Visual Representation of Mostly active member of group
-  2. Mostly active day of week
-  3. Top-10 visual media contributor of Group
-  4. Top-10 Author who uses max no. of words in there messages
-  5. Top-10 Authors who has shared max no. of links in Group
-  6. Time whenever Group having high traffic
-  7. Analysis of most suitable time slot of a day
-  8. Word Cloud of top-5 highly active member's of Group
-  9. Date on which Group was highly active
-  10. Analysis of no. of messages using Time Series Plot
-  11. Mostly active Month
-  12. Analysis of mostly active month using Line Plot
-  13. Analysis of Emojies used by users
-  14. Mostly active year whenever max. no. of messages sent
-  15. Analysis of most active Day and Time in the group
+<b> These project is totally based on Data Analysis, where our college official whatsapp group chat is used to extract useful insights from the chat. A lot of preprocessing and feature engineering preformed on data & finally extracted 15 most useful insight's and pattern's from the chat.
+
+  
+  The extracted features are : </b>
+* <b> Visual Representation of most active member's of Group.</b>
+* <b> Mostly active day of week.</b>
+* <b> Top-10 visual media contributor of Group.</b>
+* <b> Top-10 Author who uses max no. of words in there messages.</b>
+* <b> Top-10 Authors who has shared max no. of links in Group.</b>
+* <b> Time whenever Group having high traffic.</b>
+* <b> Analysis of most suitable time slot of a day.</b>
+* <b> Word Cloud of top-5 highly active member's of Group.</b>
+* <b> Date on which Group was highly active.</b>
+* <b> Analysis of no. of messages using Time Series Plot.</b>
+* <b> Mostly active Month.</b>
+* <b> Analysis of mostly active month using Line Plot.</b>
+* <b> Analysis of Emojies used by users.</b>
+* <b> Mostly active year whenever max. no. of messages sent.</b>
+* <b> Analysis of most active Day and Time in the group.</b>
 
 #### Note : The Notebook is really very amazing, must check it once.
 
