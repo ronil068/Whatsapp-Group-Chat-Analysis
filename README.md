@@ -4,10 +4,9 @@
   <img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;">
 </p>
 
-<b> These project is totally based on Data Analysis, where our college official whatsapp group chat is used to extract useful insights from the chat. A lot of preprocessing and feature engineering preformed on data & finally extracted 15 most useful insight's and pattern's from the chat.
+These project is totally based on Data Analysis, where our college official whatsapp group chat is used to extract useful insights from the chat. A lot of preprocessing and feature engineering preformed on data & finally extracted 15 most useful insight's and pattern's from the chat.
 
-  
-  The extracted features are : </b>
+<b>The extracted features are : </b>
 * <b> Visual Representation of most active member's of Group.</b>
 * <b> Mostly active day of week.</b>
 * <b> Top-10 visual media contributor of Group.</b>
