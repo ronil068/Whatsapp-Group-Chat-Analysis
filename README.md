@@ -23,6 +23,23 @@ These project is totally based on Data Analysis, where our college official what
 * <b> Mostly active year whenever max. no. of messages sent.</b>
 * <b> Analysis of most active Day and Time in the group.</b>
 
+<b>Sample Output : </b>
+<p align="center">
+  <img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;">
+</p>
+
+<p align="center">
+  <img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;">
+</p>
+
+<p align="center">
+  <img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;">
+</p>
+
+<p align="center">
+  <img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;">
+</p>
+
 #### Note : The Notebook is really very amazing, must check it once.
 
 <p align="center">
