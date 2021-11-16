@@ -1,10 +1,10 @@
 # Whatsapp-Group-Chat-Analyzer
 
-<p align="center">
-  <img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;">
+<p align = "center">
+  <img class="center" src = "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt = "Drawing" style = "width : 300px;">
 </p>
 
-These project is totally based on Data Analysis, where our college official whatsapp group chat is used to extract useful insights from the chat. A lot of preprocessing and feature engineering preformed on data & finally extracted 15 most useful insight's and pattern's from the chat.
+These project is totally based on __Data Analysis__, where our college official __Whatsapp Group Chat__ is used to extract useful insights from the chat. A lot of __preprocessing__ and __feature engineering__ preformed on data & finally extracted __15 most useful insight's__ and pattern's from the chat.
 
 <b>The extracted features are : </b>
 * <b> Visual Representation of most active member's of Group.</b>
