@@ -24,18 +24,16 @@ These project is totally based on __Data Analysis__, where our college official 
 * <b> Analysis of most active Day and Time in the group.</b>
 
 <b>Sample Output : </b>
+
 <p align="center">
   <img class="center" src ="/Sample/wp1.png" alt="Drawing" style="width : 900px; height : 500px">
 </p>
-
 <p align="center">
   <img class="center" src ="/Sample/wp4.png" alt="Drawing" style="width : 900px; height : 500px">
 </p>
-
 <p align="center">
   <img class="center" src ="/Sample/wp2.png" alt="Drawing" style="width : 900px; height : 500px">
 </p>
-
 <p align="center">
   <img class="center" src ="/Sample/wp3.png" alt="Drawing" style="width : 900px; height : 500px">
 </p>
