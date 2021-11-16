@@ -25,22 +25,22 @@ These project is totally based on Data Analysis, where our college official what
 
 <b>Sample Output : </b>
 <p align="center">
-  <img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;">
+  <img class="center" src ="/Sample/wp1.png" alt="Drawing" style="width : 900px; height : 500px">
 </p>
 
 <p align="center">
-  <img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;">
+  <img class="center" src ="/Sample/wp4.png" alt="Drawing" style="width : 900px; height : 500px">
 </p>
 
 <p align="center">
-  <img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;">
+  <img class="center" src ="/Sample/wp2.png" alt="Drawing" style="width : 900px; height : 500px">
 </p>
 
 <p align="center">
-  <img class="center" src ="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Drawing" style="width: 300px;">
+  <img class="center" src ="/Sample/wp3.png" alt="Drawing" style="width : 900px; height : 500px">
 </p>
 
-#### Note : The Notebook is really very amazing, must check it once.
+#### This Notebook is really very amazing, must check it once.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ronylpatil/">Made with ❤ by ronil</a>
