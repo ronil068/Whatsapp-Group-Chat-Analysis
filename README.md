@@ -24,10 +24,10 @@ These project is totally based on __Data Analysis__, where our college official 
 * <b> Analysis of most active Day and Time in the group.</b>
 
 <b>Libraries Used : </b>
-* <b> </b>
-* 
-* 
-* 
+* Plotly Express.
+* Seaborn.
+* Matplotlib.
+* Pandas and ...
 
 <b>Sample Output : </b>
 
