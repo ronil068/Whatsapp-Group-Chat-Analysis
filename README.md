@@ -1,4 +1,4 @@
-# Whatsapp-Group-Chat-Analyzer
+# Whatsapp Group Chat Analyzer
 
 ##### Profile Visits :
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ronylpatil.Whatapp-Group-Chat-Analysis&left_color=lightgrey&right_color=brightgreen&left_text=visitors) 
